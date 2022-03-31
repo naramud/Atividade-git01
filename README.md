@@ -1,2 +1,11 @@
-   COMO FUNCIONA A INTENET?
-    
+   COMO FUNCIONA A INTERNET?
+ A internet é uma junção de equipamentos, como switches, roteadores e modems, que se comunicam por meio dos cabos que podem ser sem fio ou fiados com cabos de cobre ou fibra óptica, e de elementos de comunicação. 
+ É comum que a palavra internet seja confundida com a World Wide Web, ou WWW, um serviço que usa a internet como meio para o tráfego de dados e que é constituído por servidores e programas clientes, os navegadores. Simplificando, a rede é uma extensão da estrutura física e lógica do seu computador, pois tem elementos físicos de comunicação e lógicos na forma de outros computadores que provêm informações.
+ Ao contrário do que você pode pensar, a rede não é uma teia de cabos espalhados pelo mundo sem qualquer critério. Cada componente tem uma função específica. Em linhas gerais, eles agem para ordenar o tráfego de dados na rede, determinar o melhor caminho para esse fluxo de informações e fazer com que os diversos cabos físicos espalhados pelo mundo se comportem como uma rede única. Outro ponto que merece atenção é na forma como os dados trafegam pela rede: em blocos ou pacotes, que podem ter tamanho variável, mas precisam respeitar um limite.
+
+                     A internet tem um "cérebro"? 
+ Outra dúvida comum é se há uma espécie de computador central que comanda toda a internet. Ainda que a rede por si só não dependa de uma máquina para funcionar, isso não se aplica à parte que usamos da rede. Existem diversos computadores, como os que formam as redes de onde vêm os endereços que permitem que os usuários naveguem, os que autenticam os usuários, os bancos de dados, os que armazenam as páginas de sites, entre outros.
+ Um desses sistemas é o Domain Name System, ou DNS. Ele serve como uma espécie de tradutor que transforma os nomes digitados pelos usuários em endereços numéricos que são usados pelos computadores. Sendo assim, o DNS tem servidores da raiz, para os quais as perguntas feitas pelos computadores --o caminho para determinado endereço, por exemplo-- são feitas inicialmente, até que se consiga obter a resposta desejada. Isso não ocorre de uma vez, mas sim após repetições de ciclos de perguntas a diversos servidores semelhantes.       
+
+                 É possível "quebrar" a internet? 
+ Os servidores DNS, inclusive, já foram alvos de ataques de hackers na tentativa de derrubar a internet como conhecemos. Mas, ainda assim, dificilmente veremos um ataque à estrutura física da internet conseguir "quebrar" a rede. O risco maior, portanto, ainda reside em ataques no nível de software, seja nos algoritmos dos roteadores ou, ainda, atacando servidores de serviços específicos, como o DNS.       
